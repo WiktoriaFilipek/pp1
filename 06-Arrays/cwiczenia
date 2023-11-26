@@ -1,0 +1,18 @@
+arr = [44,7,8,999,23]
+arr[4] = 123
+arr[len(arr)-1] #do wyznaczenia ostatniej zmiennej
+arr[len(arr)//2] #gdy chcemy wyznaczyc np 3 element
+for n in arr(10):
+    print(n)
+
+for n in range(len(arr)):
+    print(arr[n])
+while i < len(arr):
+    print(arr[i])
+    i = i + i
+
+    array = [2,3,7,5,5]
+    print(array)
+    print(len(array))
+
+arr2 = [[34,92,11], [45,76,12]] #tablica dwuwymiarowa
